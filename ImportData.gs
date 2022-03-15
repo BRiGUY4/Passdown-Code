@@ -67,7 +67,7 @@ function importInfoSheets() {
     {Ipfg = Crow;}
     if (sINFO.getRange(Crow,1).getValue() == 'Source Life')
     {Isource = Crow;}
-  }
+  } 
   
 
   // Import all Medium Current data from INFO SCREEN
